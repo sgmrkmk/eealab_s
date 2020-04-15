@@ -1,0 +1,8 @@
+ntp(matrix leng) = 15552
+*************** iccg method ***************
+nband(all band width) = 208704
+nkmax(max band width) = 19
+mesh(nod,xyz,edge)		0.000000e+00
+pot(ifa,a,ao)			0.000000e+00
+iccg(nump,h,cic,nk,nkp,g,aic,sic,ric,pic)	4.000000e+00
+total(mesh,pot,iccg)		4.000000e+00
